@@ -1,0 +1,48 @@
+http://www.ultanya.com/2014/12/bag-of-krampus.html
+
+- Party travelling through forest in sudden blizzard
+
+- travelling takes much longer than expected, take refuge in unknown village, BOXINGDALE
+
+- Upon waking up the party finds Wintermas is in full swing in this village:
+"The atmosphere of the town is extremely happy and festive, the villagers are hanging decorations for the holiday and the children are bustling with excitement to recieve their gifts from Kringle tomorrow night"
+
+- While enjoying the festivities the party is approached by a female Gnome named Rosila and her daughter who explain that her husband Piere has gone missing, he recently came back  from an adventure with some magic items that he hasnt had the chance to identify yet with the holiday. He went missing last night along with a few of the children from the village.
+Items:
+Wand of animate object
+Hat of Krampus
+Bag of Krampus
+
+- Checks can be made to figure out that the children are some of the more naughty children in the village
+
+- investigation can reveal some tracks heading off to the east (in the direction of JOLLYVILLE, a smaller town romoured to be the home of Kringle)
+
+- talking to villagers can reveal jollyville as well as some people seeing a short fur covered demon like creature running through the village late last night
+
+- while travelling to jollyville attacked by 2 snowmen:
+AC: 13
+HP: 30
+ettercap skills + abilities + phase spider bon action phase
+multi-atk 2x claw
+web -> snow ball atk
+
+- jollyville small town 9x homes no shops or taverns, same thing has happened but the town is very upset and informs the adventurers that they saw krampus/pierre going to the secret workshop of Kringle
+
+- use encounter 2 from darkest night
+
+- when they enter the workshop they will find everything shut down and noone working, when they enter Kringle's office they will find Krampus bag on his desk with evidence of a scuffle
+
+- dungeon made from ice, dark, cold, unpleasant, can hear children's cries echoing
+
+- in each room of the dungeon they will find children being tormented in different ways by goblins that swat them when they disobey:
+Being forced to eat brussle sprouts and gruel
+Being forced to do homework
+Being forced to make beds
+Public speaking to judgement
+
+- Krampus is keeping kringle prisoner
+use wight stats
+lair actions:
+icicles erupt from the ground 60 ft from krampus - 10 ft square DC 13 dex sv 2d6
+Ice beneath feet cracks - 30 ft radius around krampus DC 13 dex sv or kocked prone
+Sleet storm - 30 ft circle DC 13 con save or be blinded for a round
