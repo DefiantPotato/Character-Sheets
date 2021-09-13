@@ -1,0 +1,49 @@
+Detective Saul Maxwell
+
+Man, Determined Face, Tailored Suit
+
+Charm= 0 (H)
+Cool= +2
+Sharp= +2 (H)
+Tough= -1
+Weird= -1
+
+Work For Corporation - Fangs and Fingerprints
+	N - Hacker
+	Marvin Daniels - Inspector (Manager)
+
+Resources:
+Good Intel (from corp hacker - N)
+Cover Identities
+
+Red Tape:
+Budget Cuts
+Live Capture Policy
+
+Moves:
+Leave noone behind
+	In combat, when you help someone escape, roll +sharp. 10+ get them out clean, 7-9 suffer no hard or get them out, miss fail to get them out and attracted hostile attention
+Medic
+	when you roll first aid, roll +cool. 10+ patient is stabalised and healed 1 harm. 7-9 health 1 harm or stabalise the injury. miss cause 1 extra harm. Can only be used once per injury.
+Bottle it Up
+	up to +3 bonus when acting under pressure. for each +1, keeper holds that 1. Can be spent to give -1 on any move
+
+Gear:
+Flak Vest (1 armour, hidden)
+Sniper Rifle (4 harm, far)
+9mm (2 harm, close, loud)
+Shotgun (3 harm, close, messy)
+
+History
+Liam (Morgan McLeod) - Called him McLeod too many times - rivalry turned friendship, has worked with the agency before and is well regarded
+Karina (Bill Marx) - Went through hell together, went through training together
+Emma (Claire) - on agency watchlist, for  using telepathy on me
+
+Luck:
+
+
+Harm:
+XX
+
+Level Up:
+XXXX
