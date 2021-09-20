@@ -2,10 +2,10 @@ Detective Saul Maxwell
 
 Man, Determined Face, Tailored Suit
 
-Charm= 0 (H)
+Charm= 0 
 Cool= +2
 Sharp= +2 (H)
-Tough= -1
+Tough= -1 (H)
 Weird= -1
 
 Work For Corporation - Fangs and Fingerprints
@@ -27,6 +27,8 @@ Medic
 	when you roll first aid, roll +cool. 10+ patient is stabalised and healed 1 harm. 7-9 health 1 harm or stabalise the injury. miss cause 1 extra harm. Can only be used once per injury.
 Bottle it Up
 	up to +3 bonus when acting under pressure. for each +1, keeper holds that 1. Can be spent to give -1 on any move
+Mobility (improvements)
+	Van - surveillance gear, stealthy, tempermental
 
 Gear:
 Flak Vest (1 armour, hidden)
@@ -43,7 +45,7 @@ Luck:
 
 
 Harm:
-XX
+
 
 Level Up:
-XXXX
+XX
